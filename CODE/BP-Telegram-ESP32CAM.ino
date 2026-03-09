@@ -19,7 +19,7 @@ char msg[500];
 const char* ssid = "admin";
 const char* password = "1234567890";
 
-String BOTtoken = "8492061475:AAHMU5TELnprVeLL6bZ8p8Ccayp6FDrRvEA"; 
+String BOTtoken = "xcvbnmzxcvbnmzxcvbnxcvbn"; // replace with your bottoken ID
 //String CHAT_ID="863765688"; // static chat id
 String CHAT_ID="";
 bool sendPhoto = false;
